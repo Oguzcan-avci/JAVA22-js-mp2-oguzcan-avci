@@ -1,0 +1,30 @@
+ body{
+    background-color: #A0C3D2;
+    font-family: 'Unbounded', cursive;
+ }
+ .game{
+    text-align: center;
+    margin-top: 100px;
+    background-color:#AEE2FF ;
+}
+
+form{
+    text-align: center;
+    margin-top: 100px;
+}
+
+button{
+    margin-top: 50px;
+}
+
+button{
+    width: 100px;
+    
+}
+
+.winner{
+    margin-top: 50px;
+}
+
+
+
